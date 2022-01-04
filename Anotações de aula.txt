@@ -1,0 +1,24 @@
+3 requisitos:
+
+Verificar se a peça possui mais de 100 gramas
+	Sim: Pode cadastrar
+	Não: Não podemos cadastrar
+
+Verificar o número de peças ja cadastradas, não pode exceder 10 peças
+	Menos de 10: Pode cadastrar
+	10 ou mais peças: Não podemos cadastrar
+
+Verificar o comprimento do nome da peça
+	Menos de 3 caracteres: Não pode cadastrar
+	3 ou mais caracteres: Podemos cadastrar
+
+
+__________________________________________
+
+git init - Inicializar o repositório
+git add . - Adicionar os arquivos a serem salvos
+git commit -m "Mensagem do commit" - Cria o commit local
+
+git remore add origin "link do repositório do github" - 
+git branch -M main
+git push -u origin main
